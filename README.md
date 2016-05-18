@@ -25,6 +25,9 @@ TODO
 ---
 
 x example Rails app
-- migration for mobile number, otp, and otp timestamp
+x migration for mobile number, otp, and otp timestamp
+x initializer copies views to app
 - sign up shows mobile number field only
-- initializer copies views to app
+- sign up prompts otp
+- SMS otp
+- validation nullifies otp
