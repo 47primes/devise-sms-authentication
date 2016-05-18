@@ -20,3 +20,11 @@ Setup
 
 Configuration
 ---
+
+TODO
+---
+
+x example Rails app
+- migration for mobile number, otp, and otp timestamp
+- sign up shows mobile number field only
+- initializer copies views to app

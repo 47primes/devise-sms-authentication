@@ -1,0 +1,1 @@
+require "devise_sms_authentication/models/sms_authenticatable"
